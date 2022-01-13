@@ -1,0 +1,17 @@
+Statitics is the study of the collection, analysys, interoretation, presentation, and organization of data. 
+tools available to analyse data :
+statistical pronciples 
+functions 
+algorithms
+
+two major catagories of statistical analysis and their differences 
+1. discreptives analytics
+2. inferential analysis 
+
+ststistical analysis consideration 
+1 purpose=> clear and well defined 
+2. document the questions => prepere a questionaries in advance 
+3. define the population and interest=> select population based on the purpose and analysis 
+3. determine the =>sample that you want to draw based on the purpose of study 
+
+90, 110,115,,135,160 

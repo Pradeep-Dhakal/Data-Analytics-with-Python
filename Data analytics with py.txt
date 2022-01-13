@@ -1,0 +1,56 @@
+__________Data analysis process ___________
+1. business problem 
+	who are my customre 
+	why my is business growing and loss
+2. data Asquition 
+	collection of data form various sources for anlaysis to aswer thw question raised in step 
+	fine handeling
+	web scrapppig 
+	file format	
+3. Data wrangling and exploration (it cunsumed 75% of data scientisist time) 
+	data wrangling and exploration is the most importang phase of the data analytics 	process.
+		this processes includes 
+		Data cleansing 
+		data Manipulation 
+		data discovery 
+		data pattern identfication
+	causes of challenges in the data warangling phase 
+		unexpected data fotamt 
+		Erroneous data
+		voluminious data 
+		Classifying dat into lnear or clustured 
+		determininig relationship between ibservation, features and response
+
+4. Model selection 
+	model selection is based on the ocerall data analysis process
+	should be accurate to avoide itaration
+	Depends in pattern identifiaction and algorithm
+	depends on hypothesis building and testing
+	leads to building mathmetical statistical function
+ 
+___________EDA graphical techinque _____________
+1. histogram 
+2. Scatter plots
+
+
+_______ meaning Of hypothesis ____________
+it will used to establish the relationship between dependent and independent variable.
+
+feature enineering involves domain experties to:
+	make sense of data
+	contruct new featres from raw data cutomatically
+	cionstruct new features from raw data manually 
+
+____________Three phase of hypotethis building usng model  __________
+phase 1. Model Building
+	identify best input variable 
+	Eveluate the model's capacity of forecast with these variables
+phase 2. model eveluation 
+	train and test the module 
+	optimization model accuracy, performance, and comparision with models 
+phase 3. model deployment 
+	use the mdoel for predction 
+	use the model to compare actual outcome with expctations
+
+
+
